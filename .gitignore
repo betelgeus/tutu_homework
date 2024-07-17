@@ -1,0 +1,5 @@
+__pycache__
+.idea/
+catboost_info/
+.ipynb_checkpoints/
+.ipynb_checkpoints
